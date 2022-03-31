@@ -1,4 +1,14 @@
 # MNIST-Training(ANN vs CNN)
+The major difference between a traditional Artificial Neural Network (ANN) and CNN is that only the last layer of a CNN is fully connected whereas in ANN, each neuron is connected to every other neurons.
+CNN tends to be a more powerful and accurate way of solving classification problems. ANN is still dominant for problems where datasets are limited, and image inputs are not necessary.
+## ANN vs CNN
+![image](https://user-images.githubusercontent.com/90707178/161096903-cfb97b2c-4f9a-4355-82b8-e983e454e898.png)
+![image](https://user-images.githubusercontent.com/90707178/161097216-b12a7aca-9dbe-49f7-a61b-ca9313f16f1a.png)
+
+
+
+
+## MNIST Dataset
 ![image](https://user-images.githubusercontent.com/90707178/161095038-3d76f574-c21a-4b5c-881c-858870508c0f.png)
 
 
